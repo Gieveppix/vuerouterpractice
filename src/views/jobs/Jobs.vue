@@ -28,7 +28,6 @@ export default {
     border-radius: 10px;
     margin: 10px auto;
     max-width: 600px;
-    cursor: pointer;
     color: #444;
   }
   .job h2:hover {
